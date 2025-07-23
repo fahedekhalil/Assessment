@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "CustomerOrderServiceAPI.Controllers.CustomersController",
+    "Method": "Register",
+    "RelativePath": "api/{tenantId}/customers/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CustomerOrderServiceAPI.DTOs.RegisterDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "tenantId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerOrderServiceAPI.Controllers.CustomerOrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/{tenantId}/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CustomerOrderServiceAPI.DTOs.CreateOrderDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "tenantId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerOrderServiceAPI.Controllers.CustomerOrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "api/{tenantId}/orders/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tenantId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

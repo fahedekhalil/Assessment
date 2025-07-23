@@ -1,0 +1,78 @@
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.staticwebassets.endpoints.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.exe
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.deps.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.runtimeconfig.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\CustomerOrderServiceAPI.pdb
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.AssemblyInfo.cs
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderServiceAPI.styles.css
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\Customer.DB0197AD.Up2Date
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\refint\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.pdb
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\CustomerOrderServiceAPI.genruntimeconfig.cache
+C:\Users\User\Downloads\OrderServiceAPI (1)\obj\Debug\net8.0\ref\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\User\Downloads\OrderServiceAPI (1)\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.staticwebassets.endpoints.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.exe
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.deps.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.runtimeconfig.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\CustomerOrderServiceAPI.pdb
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.AssemblyInfo.cs
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderServiceAPI.styles.css
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\Customer.DB0197AD.Up2Date
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\refint\CustomerOrderServiceAPI.dll
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.pdb
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\CustomerOrderServiceAPI.genruntimeconfig.cache
+C:\Users\User\Downloads\CustomerOrderServiceAPI\obj\Debug\net8.0\ref\CustomerOrderServiceAPI.dll
