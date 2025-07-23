@@ -1,4 +1,4 @@
-using AutoMapper;
+﻿using AutoMapper;
 using CustomerOrderServiceAPI.Data;
 using CustomerOrderServiceAPI.DTOs;
 using CustomerOrderServiceAPI.Models;
@@ -26,6 +26,16 @@ namespace CustomerOrderServiceAPI.Services
         {
             try
             {
+                // Ensure customer belongs to the current tenant
+                var customer = await _db.Customers
+                    .FirstOrDefaultAsync(c => c.Id == dto.CustomerId && c.TenantId == _tenantProvider.TenantId);
+
+                if (customer == null)
+                {
+                    _logger.LogWarning("Customer ID {CustomerId} not found for tenant {TenantId}", dto.CustomerId, _tenantProvider.TenantId);
+                    throw new Exception("Invalid customer for current tenant.");
+                }
+
                 var order = _mapper.Map<CustomerOrder>(dto);
                 order.TenantId = _tenantProvider.TenantId;
 
